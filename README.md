@@ -5,9 +5,13 @@ Charts is Apple’s native framework introduced in iOS 16, macOS 13, and other r
 **🚀 Features of Swift Charts**
 
 Built-in chart types: LineMark, BarMark, PointMark, etc.
+
 Smooth animations and interpolation (.catmullRom, .linear, etc.)
+
 Tooltips and gestures support via ChartOverlay and RuleMark
+
 Customizable axes, grid lines, annotations
+
 SwiftUI-native syntax: works seamlessly with @State, ForEach, and layout views
 
 **📚 Resources**
