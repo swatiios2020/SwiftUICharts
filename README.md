@@ -35,5 +35,3 @@ LinePointChartView(
     ],
     title: "Monthly Growth"
 )
-
-<img width="1206" height="2622" alt="a" src="https://github.com/user-attachments/assets/598584a6-e9de-4a3b-9219-93d79cceddd1" />
